@@ -1,0 +1,33 @@
+body {
+
+}
+
+canvas {
+  display: block;
+  margin: 0 auto;
+  border: 1px solid #444444;
+}
+
+ul {
+  width: 800px;
+  margin: 0 auto;
+  padding: 25px 0 0 0;
+}
+
+li {
+  display: inline-block;
+  padding: 0 5px 0 0;
+}
+
+a {
+  display: inline-block;
+  padding: 8px 20px;
+  background: #99aadd;
+  color: #333333;
+  text-decoration: none;
+}
+
+a.active {
+  color: white;
+  background: #0066cc;
+}

@@ -1,0 +1,60 @@
+html {
+  font: 16px normal Helvetica, Arial, san-serif;
+  background: #25bb37;
+}
+
+h1 {
+  color: #157814;
+}
+
+body {
+  width: 400px;
+  margin: 100px auto;
+  padding: 50px;
+  background: white;
+  color: #25bb37;
+}
+
+form {
+  display: block;
+}
+
+form input {
+  display: block;
+  margin: 10px;
+  padding: 0 10px;
+  height: 30px;
+  font: 48px;
+}
+
+input:focus {
+  background-color: yellow;
+  border: 3px dashed #bb66aa;
+}
+
+#add {
+  display: block;
+  border-radius: 10px;
+  background: #bb66aa;
+  width: 100%;
+  height: 45px;
+  margin: 20px 0 0 0;
+  linear-gradient: ;
+}
+
+#clear {
+  display: block;
+  border-radius: 10px;
+  background: #bb6633;
+  width: 100%;
+  height: 45px;
+  margin: 20px 0 0 0;
+}
+
+li {
+  margin: 5px;
+}
+
+li + li {
+  border-top: 1px solid #ececec;
+}

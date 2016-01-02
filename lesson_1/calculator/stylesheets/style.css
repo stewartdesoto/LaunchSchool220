@@ -1,0 +1,51 @@
+html {
+  background: #aa44aa;
+  font: 24px normal Helvetica, Arial, sans-serif;
+}
+
+
+body {
+  background: #ffffff;
+  height: 300px;
+  width: 800px;
+  margin: 100px auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+#num1 {
+  color: dark-blue;
+  border: 2px solid gray;
+  margin: 0 20px 0 20px;
+  width: 170px;
+  height: 30px;
+  font: 24px monospace;
+  vertical-align: middle;
+}
+
+#num2 {
+  color: dark-blue;
+  border: 2px solid gray;
+  margin: 0 20px 0 20px;
+    margin: 0 20px 0 20px;
+  width: 170px;
+  height: 30px;
+  font: 24px monospace;
+  vertical-align: middle;
+}
+
+#operation {
+  margin: 10px;
+}
+
+#answer {
+  display: block;
+  height: 50;
+  width: 200;
+  font-size: 36px;
+  font: monospace;
+  color: green;
+  margin:  0 0 25px 50px;
+}
